@@ -1,0 +1,27 @@
+{
+  "PlaceHolderService1": {
+    "requestType": "GET",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "contentType": "application/json",
+    "request": "PlaceHolder1Response",
+    "response": "PlaceHolder1Response",
+    "requestHeaders": {
+      "Content-Type": "application/json",
+      "Accept": "application/json"
+    },
+    "requestCookies": {}
+
+  },
+  "PlaceHolderService2": {
+    "requestType": "GET",
+    "url": "https://jsonplaceholder.typicode.com/todos/101",
+    "contentType": "application/json",
+    "request": "PlaceHolder2Response",
+    "response": "PlaceHolder2Response",
+    "requestHeaders": {
+      "Content-Type": "application/json",
+      "Accept": "application/json"
+    },
+    "requestCookies": {}
+  }
+}

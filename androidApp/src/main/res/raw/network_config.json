@@ -1,0 +1,6 @@
+{
+  "ClientEngineType": "Okhttp",
+  "requestTimeoutMillis": 5000,
+  "connectTimeoutMillis": 5000,
+  "socketTimeoutMillis": 5000
+}
